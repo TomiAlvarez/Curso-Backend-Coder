@@ -1,0 +1,14 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "Leche",
+			"description": "Sancor",
+			"price": "300",
+			"thumbnail": "leche.jpg",
+			"code": "127",
+			"stock": "50"
+		}
+	],
+	"index": 1
+}
